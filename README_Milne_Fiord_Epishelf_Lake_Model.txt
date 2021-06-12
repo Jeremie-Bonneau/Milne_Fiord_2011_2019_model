@@ -4,7 +4,7 @@ Milne Fiord Epishelf Lake Model
 Last updated 2021-05-13
 
 Please cite this dataset as follow:
-Jérémie Bonneau, Derek Mueller, Bernard E. Laval, Alexander L. Forrest, Drew M. Friedrichs and Andrew K. Hamilton. (2021). Winter Dynamics in an Epishelf Lake: Quantitative Mixing Estimates and Ice Shelf Basal Channel Considerations. Journal of Geophysical Research: Oceans. Submitted 2021-03-11. Manuscript #2021JC017324. In review. 
+Jérémie Bonneau, Bernard E. Laval, Derek Mueller, Andrew K. Hamilton, Drew M. Friedrichs and  Alexander L. Forrest,. (2021). Winter Dynamics in an Epishelf Lake: Quantitative Mixing Estimates and Ice Shelf Basal Channel Considerations. Journal of Geophysical Research: Oceans. Submitted 2021-03-11. Manuscript #2021JC017324. In review. 
 
 
 -----
@@ -48,7 +48,7 @@ DATA
 	K_SA_from_K_CT_struct2interp: data to interpolate K_SA from K_CT
 	SA_day                      : salinity data from the mooring, daily averaged, to evaluate the model
 	SA_IC_ctd                   : salinity data to write the initial conditons
-	Tmatrix_0_30_30m_10cm       : temperature data from the mooring to write boundary conditions
+	Tmatrix_0_30_30m_10cm       : temperature data from the mooring to write boundary conditions; too big for Github, download at https://drive.google.com/file/d/1uWGEAiKqjb5h5NCoJFM_BDw-OVdUIgCm/view?usp=sharing 
 	Tmatrix_0_30_day_10cm       : temperature data from the mooring, daily averaged, to write initial conditions and evaluate the model
 
 RESULTS
