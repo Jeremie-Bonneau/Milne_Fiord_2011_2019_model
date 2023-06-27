@@ -4,8 +4,7 @@ Milne Fiord Epishelf Lake Model
 Last updated 2021-05-13
 
 Please cite this dataset as follow:
-Jérémie Bonneau, Bernard E. Laval, Derek Mueller, Andrew K. Hamilton, Drew M. Friedrichs and  Alexander L. Forrest,. (2021). Winter Dynamics in an Epishelf Lake: Quantitative Mixing Estimates and Ice Shelf Basal Channel Considerations. Journal of Geophysical Research: Oceans. Submitted 2021-03-11. Manuscript #2021JC017324. In review. 
-
+Bonneau, J., Laval, B. E., Mueller, D., Hamilton, A. K., Friedrichs, A. M., & Forrest, A. L. (2021). Winter dynamics in an epishelf lake: quantitative mixing estimates and ice shelf basal channel considerations. Journal of Geophysical Research: Oceans, 126(9), e2021JC017324.
 
 -----
 DESCRIPTION:
